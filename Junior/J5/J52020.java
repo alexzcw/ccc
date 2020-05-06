@@ -1,8 +1,8 @@
-package FSJ2020;
+package J5;
 
 import java.util.Scanner;
 
-public class J52020 {
+public class J5Recursion {
     public static int m;
     public static int n;
     public static int [][] room;
