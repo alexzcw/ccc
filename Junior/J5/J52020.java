@@ -2,7 +2,7 @@ package J5;
 
 import java.util.Scanner;
 
-public class J5Recursion {
+public class J52020 {
     public static int m;
     public static int n;
     public static int [][] room;

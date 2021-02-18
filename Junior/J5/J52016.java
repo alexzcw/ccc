@@ -4,9 +4,13 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class J52016 {
+	int helo = 0;
 	public static void main (String [] args) {
 		Scanner scanner = new Scanner (System.in);
-		
+
+		J52016 obj = new J52016();
+		System.out.println(obj.helo);
+
 		int q = scanner.nextInt();
 		int n = scanner.nextInt();
 		
