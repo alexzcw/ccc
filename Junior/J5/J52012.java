@@ -7,14 +7,12 @@ public class J52012 {
 		Scanner scanner = new Scanner (System.in);
 		
 		int n = scanner.nextInt();
-		int count = 0;
 		
 		int [][] coins = new int [n][n];
 		
 		for (int i = 0; i < n; i++) {
 			coins[0][i] = scanner.nextInt();
 		}
-		
 		
 		System.out.println("f---");
 		print(coins);

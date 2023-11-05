@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class S12020 {
@@ -36,5 +35,6 @@ public class S12020 {
 
 		System.out.println(temp);
 //		System.out.println(Arrays.toString(time) + "\n" + Arrays.toString(pos));
+		scanner.close();
 	}
 }

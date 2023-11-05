@@ -1,3 +1,5 @@
+package J1;
+
 import java.util.Scanner;
 
 public class J12009 {

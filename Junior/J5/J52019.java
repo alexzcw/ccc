@@ -1,4 +1,4 @@
-package j5;
+package J5;
 
 import java.util.ArrayList;
 import java.util.Arrays;

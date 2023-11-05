@@ -1,4 +1,4 @@
-package J2;
+package J3;
 
 import java.util.Scanner;
 

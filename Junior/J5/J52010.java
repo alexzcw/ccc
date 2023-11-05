@@ -17,6 +17,8 @@ public class J52010 {
         }
         knightMove(a,b,0);
         System.out.println(board[c][d]);
+
+        in.close();
     }
     public static void knightMove(int x, int y, int steps) {
         if (x >= 0 && x < 8 && y >= 0 && y < 8 && steps < board[x][y]) {

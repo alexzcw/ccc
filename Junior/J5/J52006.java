@@ -76,5 +76,6 @@ public class J52006 {
 //		        System.out.print(board[i][j] + " ");
 //		    System.out.println();
 //		}
+		scanner.close();
 	}
 }

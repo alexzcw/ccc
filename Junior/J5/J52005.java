@@ -1,4 +1,4 @@
-package j5;
+package J5;
 
 import java.util.Scanner;
 
@@ -34,5 +34,7 @@ public class J52005 {
 			else out += "NO\n";
 		}
 		System.out.println(out);
+
+		scanner.close();
 	}
 }
